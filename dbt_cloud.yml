@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "wn256.us1.dbt.com"
+  active-project: "70471823401713"
+projects:
+  - project-name: "proof of concept_python_model"
+    project-id: "70471823401713"
+    account-name: "avadal"
+    account-id: "70471823400650"
+    account-host: "wn256.us1.dbt.com"
+    token-name: "cloud-cli-210c"
+    token-value: "dbtu_nrlXj2gcMoS2aWKFOuYvy7dK04UykAK2VNeZaj_QMsCOCewCxI"
+
+
